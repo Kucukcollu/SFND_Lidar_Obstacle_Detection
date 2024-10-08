@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/humble/include/**",
+                "/usr/include/eigen3",
+                "/usr/local/include/vtk-8.2",
+                "/usr/local/include/pcl-1.11",
+                "/usr/local/include/opencv4",
+                "/usr/local/include/ceres",
+                "/usr/local/include/yaml-cpp",
+                "/usr/local/include/nlohmann",
+                "/usr/local/include/gtsam",
+                "/usr/local/include/gtest",
+                "/usr/local/include/gmock"
+            ]
+        }
+    ],
+    "version": 4
+}
